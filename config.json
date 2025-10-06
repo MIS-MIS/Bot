@@ -1,0 +1,32 @@
+{
+  "business": {
+    "name": "Speed Bath",
+    "shortName": "Speed Bath",
+    "industry": "Bathroom",
+    "productType": "Product",
+    "catalogName": "Speed catalog.pdf"
+  },
+  "messages": {
+    "welcomeTemplate": "Dear {name},\n\nThank you for reaching out to SPEED Bath Tech!\n\nWe've received your message and truly appreciate your interest. Our team is reviewing your inquiry, and a senior representative will get in touch with you shortly.\n\nWith over 25 years of experience in premium bath fittings, we're here to deliver quality and service you can trust.\n\nIf your request is urgent, feel free to call us at +919205069737.\n\nThank you once again for connecting with us!\n\n— Team SPEED Bath Tech",
+    "catalogCaption": "Thank you for reaching out to us at {businessName}. Please have a look at our {productType}.",
+    "catalogKeywords": ["pdf", "catalog", "catalogue", "brochure", "basin", "basins", "collection", "collections", "product", "products", "price", "pricing", "cost", "bathroom", "washbasin", "wash basin", "intelligent bathroom"]
+  },
+  "location": {
+    "address": "Mansarovar Garden",
+    "url": "https://maps.app.goo.gl/4ayXrtSZKcxQxBXG7"
+  },
+  "notifications": {
+    "phoneNumber": ""
+  },
+  "branding": {
+    "primaryColor": "#075E54",
+    "secondaryColor": "#128C7E",
+    "accentColor": "#25D366",
+    "dashboardTitle": "Speed Bath WhatsApp Bot - Enhanced Dashboard",
+    "logoText": "Speed Bath Bot"
+  },
+  "filtering": {
+    "startDate": "2025-07-15",
+    "description": "Only process leads captured from this date onwards (YYYY-MM-DD format)"
+  }
+}

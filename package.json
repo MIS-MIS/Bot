@@ -1,0 +1,40 @@
+{
+  "name": "whatsapp-business-bot",
+  "version": "2.0.0",
+  "description": "Automated WhatsApp Business Bot for Lead Engagement",
+  "main": "app.js",
+  "scripts": {
+    "start": "node start.js",
+    "setup": "node setup-business.js",
+    "dev": "node app.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "automation",
+    "business",
+    "leads",
+    "marketing",
+    "google-sheets"
+  ],
+  "author": "WhatsApp Bot Solutions",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0",
+    "googleapis": "^150.0.1",
+    "multer": "^2.0.1",
+    "whatsapp-web.js": "^1.33.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "private"
+  },
+  "bugs": {
+    "url": "contact-support"
+  },
+  "homepage": "README.md"
+}
