@@ -4,7 +4,7 @@
   "description": "Automated WhatsApp Business Bot for Lead Engagement",
   "main": "app.js",
   "scripts": {
-    "start": "node start.js",
+    "start": "node app.js",
     "setup": "node setup-business.js",
     "dev": "node app.js"
   },
@@ -24,6 +24,7 @@
     "express": "^5.1.0",
     "googleapis": "^150.0.1",
     "multer": "^2.0.1",
+    "qrcode": "^1.5.4",
     "whatsapp-web.js": "^1.33.2"
   },
   "engines": {

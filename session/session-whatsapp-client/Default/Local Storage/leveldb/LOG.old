@@ -1,66 +1,12 @@
-2025/09/26-13:37:07.315 48198 Reusing MANIFEST C:\Users\user\Desktop\Speed\Bot\session\session-whatsapp-client\Default\Local Storage\leveldb/MANIFEST-000001
-2025/09/26-13:37:07.326 48198 Recovering log #816
-2025/09/26-13:37:07.327 48198 Reusing old log C:\Users\user\Desktop\Speed\Bot\session\session-whatsapp-client\Default\Local Storage\leveldb/000816.log 
-2025/09/26-14:27:21.712 48a60 Level-0 table #820: started
-2025/09/26-14:27:21.753 48a60 Level-0 table #820: 12730 bytes OK
-2025/09/26-14:27:21.757 48a60 Delete type=0 #816
-2025/09/26-17:27:28.697 4c044 Level-0 table #822: started
-2025/09/26-17:27:28.716 4c044 Level-0 table #822: 11365 bytes OK
-2025/09/26-17:27:28.723 4c044 Delete type=0 #819
-2025/09/26-17:27:28.804 4c044 Compacting 4@0 + 1@1 files
-2025/09/26-17:27:28.812 4c044 Generated table #823@0: 97 keys, 10023 bytes
-2025/09/26-17:27:28.812 4c044 Compacted 4@0 + 1@1 files => 10023 bytes
-2025/09/26-17:27:28.815 4c044 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/09/26-17:27:28.816 4c044 Delete type=2 #813
-2025/09/26-17:27:28.816 4c044 Delete type=2 #815
-2025/09/26-17:27:28.816 4c044 Delete type=2 #817
-2025/09/26-17:27:28.816 4c044 Delete type=2 #820
-2025/09/26-17:27:28.816 4c044 Delete type=2 #822
-2025/09/26-22:17:44.216 53dfc Level-0 table #825: started
-2025/09/26-22:17:44.232 53dfc Level-0 table #825: 11601 bytes OK
-2025/09/26-22:17:44.238 53dfc Delete type=0 #821
-2025/09/27-06:18:09.250 5e9d4 Level-0 table #827: started
-2025/09/27-06:18:09.292 5e9d4 Level-0 table #827: 12332 bytes OK
-2025/09/27-06:18:09.296 5e9d4 Delete type=0 #824
-2025/09/27-11:18:28.953 62b54 Level-0 table #829: started
-2025/09/27-11:18:28.976 62b54 Level-0 table #829: 11950 bytes OK
-2025/09/27-11:18:28.986 62b54 Delete type=0 #826
-2025/09/27-12:48:33.131 68028 Level-0 table #831: started
-2025/09/27-12:48:33.156 68028 Level-0 table #831: 12932 bytes OK
-2025/09/27-12:48:33.164 68028 Delete type=0 #828
-2025/09/27-12:48:33.195 66d74 Compacting 4@0 + 1@1 files
-2025/09/27-12:48:33.203 66d74 Generated table #832@0: 97 keys, 9097 bytes
-2025/09/27-12:48:33.203 66d74 Compacted 4@0 + 1@1 files => 9097 bytes
-2025/09/27-12:48:33.206 66d74 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/09/27-12:48:33.207 66d74 Delete type=2 #823
-2025/09/27-12:48:33.207 66d74 Delete type=2 #825
-2025/09/27-12:48:33.207 66d74 Delete type=2 #827
-2025/09/27-12:48:33.207 66d74 Delete type=2 #829
-2025/09/27-12:48:33.207 66d74 Delete type=2 #831
-2025/09/27-14:38:38.451 6ab10 Level-0 table #834: started
-2025/09/27-14:38:38.475 6ab10 Level-0 table #834: 12636 bytes OK
-2025/09/27-14:38:38.481 6ab10 Delete type=0 #830
-2025/09/27-17:18:46.228 6db0c Level-0 table #836: started
-2025/09/27-17:18:46.272 6db0c Level-0 table #836: 11517 bytes OK
-2025/09/27-17:18:46.279 6db0c Delete type=0 #833
-2025/09/27-21:08:56.958 72ea0 Level-0 table #838: started
-2025/09/27-21:08:56.979 72ea0 Level-0 table #838: 11398 bytes OK
-2025/09/27-21:08:56.985 72ea0 Delete type=0 #835
-2025/09/28-03:59:21.115 7d3b0 Level-0 table #840: started
-2025/09/28-03:59:21.135 7d3b0 Level-0 table #840: 11843 bytes OK
-2025/09/28-03:59:21.149 7d3b0 Delete type=0 #837
-2025/09/28-03:59:21.178 7d3b0 Compacting 4@0 + 1@1 files
-2025/09/28-03:59:21.184 7d3b0 Generated table #841@0: 97 keys, 9095 bytes
-2025/09/28-03:59:21.184 7d3b0 Compacted 4@0 + 1@1 files => 9095 bytes
-2025/09/28-03:59:21.187 7d3b0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/09/28-03:59:21.188 7d3b0 Delete type=2 #832
-2025/09/28-03:59:21.188 7d3b0 Delete type=2 #834
-2025/09/28-03:59:21.188 7d3b0 Delete type=2 #836
-2025/09/28-03:59:21.188 7d3b0 Delete type=2 #838
-2025/09/28-03:59:21.188 7d3b0 Delete type=2 #840
-2025/09/28-10:19:42.267 85e34 Level-0 table #843: started
-2025/09/28-10:19:42.312 85e34 Level-0 table #843: 12109 bytes OK
-2025/09/28-10:19:42.328 85e34 Delete type=0 #839
-2025/09/28-17:00:01.408 8e894 Level-0 table #845: started
-2025/09/28-17:00:01.441 8e894 Level-0 table #845: 12158 bytes OK
-2025/09/28-17:00:01.445 8e894 Delete type=0 #842
+2025/10/06-10:17:53.191 bb97 Reusing MANIFEST /root/Bot/session/session-whatsapp-client/Default/Local Storage/leveldb/MANIFEST-000001
+2025/10/06-10:17:53.195 bb97 Recovering log #922
+2025/10/06-10:17:53.195 bb97 Reusing old log /root/Bot/session/session-whatsapp-client/Default/Local Storage/leveldb/000922.log 
+2025/10/06-12:28:06.051 bfe9 Level-0 table #927: started
+2025/10/06-12:28:06.053 bfe9 Level-0 table #927: 13238 bytes OK
+2025/10/06-12:28:06.055 bfe9 Delete type=0 #922
+2025/10/06-23:48:39.514 ca17 Level-0 table #929: started
+2025/10/06-23:48:39.516 ca17 Level-0 table #929: 13508 bytes OK
+2025/10/06-23:48:39.518 ca17 Delete type=0 #926
+2025/10/07-06:29:07.696 d577 Level-0 table #931: started
+2025/10/07-06:29:07.699 d577 Level-0 table #931: 12612 bytes OK
+2025/10/07-06:29:07.702 d577 Delete type=0 #928
